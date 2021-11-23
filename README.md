@@ -12,10 +12,10 @@ Este es la galeria de imágenes
 
 ## Ejecutar el proyecto
 
-Descargar el proyecto
+Primero: Descargar el proyecto
 
-Primero ejecutar el comando
+Segundo: Ejecutar el comando
 ### `npm install`
 
-Primero ejecutar el comando
+Tercero: Ejecutar el comando
 ### `npm run start`
